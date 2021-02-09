@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="xampp" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" editBeforeRun="true" browser="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" server_name="xampp" start_url="/web/1_PhpMySqlConnection.php">
+    <method v="2">
+      <option name="FtpUpload" enabled="true">
+        <server_id>24ac102b-1877-4555-a9db-3687ab7d444b</server_id>
+        <server_name>xampp</server_name>
+        <group_name />
+        <path>F:\Program\PHP\PHP_MYSQL</path>
+      </option>
+    </method>
+  </configuration>
+</component>
